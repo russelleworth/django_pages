@@ -1,1 +1,1 @@
-web: gunicorn assignment-7.wsgi
+web: gunicorn django_pages.wsgi
